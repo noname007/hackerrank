@@ -1,6 +1,6 @@
 % Enter your code here. Read input from STDIN. Print output to STDOUT
 % Your class should be named solution
--module(insertionsort1).
+-module(solution).
 % -export([main/0]).
 -compile(export_all).
 % https://www.hackerrank.com/challenges/insertionsort1
